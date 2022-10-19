@@ -26,11 +26,11 @@ Users should be able to:
 
   - Desktop
   
-    ![](/IMG/Nota%20Interativa/desktop.png)
+    ![](images/desktop.png)
     
   - Mobile
   
-    ![](/IMG/Nota%20Interativa/mobile.png)
+    ![](images/mobile.png)
 
 ### Links
 
