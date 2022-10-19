@@ -26,16 +26,16 @@ Users should be able to:
 
   - Desktop
   
-    ![](images/desktop.png)
+    ![](/IMG/Nota%20Interativa/desktop.png)
     
   - Mobile
   
-    ![](images/mobile.png)
+    ![](/IMG/Nota%20Interativa/mobile.png)
 
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: https://calculator-app-rafael.netlify.app
+- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
 
